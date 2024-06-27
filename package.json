@@ -1,0 +1,15 @@
+{
+  "name": "hermessfitness",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwind -i ./CSS/input.css -o ./CODE/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
